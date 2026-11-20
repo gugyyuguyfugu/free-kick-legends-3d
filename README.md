@@ -39,3 +39,12 @@ Move the mouse to aim. Hold the mouse button or SPACE to charge, release to shoo
 | Hold click or Space | Charge and shoot (timed finishing) |
 | 1-6 | Normal, curve, knuckle, dip, power, outside foot |
 | Q / R / F / C / X / Z / G | Step-over, roulette, elastico, ball roll, drag back, rainbow flick, fake shot |
+
+## v5: Legends, replays and more
+
+- **25 takers**, grouped as Legends (Roberto Carlos, Beckham, Juninho, Pirlo, Ronaldinho, Zico, Platini, Koeman, Mihajlovic, Del Piero), Modern stars (Messi, Cristiano Ronaldo, Bale, Neymar, Ward-Prowse, Alexander-Arnold, Dybala, Calhanoglu, Sidny Lopes Cabral) and the originals. Each has their own kit, hair, preferred foot, signature technique, overall rating and goal celebration.
+- **Goal replays** play automatically after every goal: slow motion, letterbox and five cameras (Auto, Broadcast, Behind the goal, Ball cam, Keeper view). Press V to switch camera, Space to skip, P (or the button) to watch your last goal again.
+- **Celebrations**: knee slides, airplane runs, the jump-and-spin, pointing to the sky, and more.
+- **Weather and time of day**: sunny, sunset, night under floodlights, rain and snow. Rain and snow make the ball slippery, so keepers make more mistakes.
+- **Achievements and records**: 18 achievements with coin rewards, plus your fastest shot, longest goal and more.
+- **Shot card** showing speed (km/h) and distance on every strike.
